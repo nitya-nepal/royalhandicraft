@@ -2,15 +2,13 @@
 templateKey: index-page
 title: Royal Handicraft
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: 'Showing royalty of Nepali garments '
+subheading: 'All kinds of handmade products '
 mainpitch:
-  title: Why Kaldi
+  title: Why Royal Handicrafts
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Royal handicraft is a nepali product centered store with a rich collection
+    of products. We have many types of.... 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
